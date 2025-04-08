@@ -27,11 +27,11 @@ Built with **Node.js**, **React**, and **MongoDB** , this system allows the stor
 ![Add Product Page](screens/SupplierScreens/addProductPage.png)
 ![My Orders - Supplier](screens/SupplierScreens/myordersPage.png)
 
-![Add Product to Checkout](screens/SupplierScreens/addProductToCheckout.png)
-![Checkout Screen](screens/SupplierScreens/checkoutScreen.png)
-![My Orders - Supplier](screens/SupplierScreens/myOrders.png)
-![New Order - Step 1](screens/SupplierScreens/newOrder-1.png)
-![New Order - Step 2](screens/SupplierScreens/newOrder-2.png)
+![Add Product to Checkout](screens/StoreManagerScreens/addProductToCheckout.png)
+![Checkout Screen](screens/StoreManagerScreens/checkoutScreen.png)
+![My Orders - Supplier](screens/StoreManagerScreens/myOrders.png)
+![New Order - Step 1](screens/StoreManagerScreens/newOrder-1.png)
+![New Order - Step 2](screens/StoreManagerScreens/newOrder-2.png)
 
 ## Prerequisites
 
