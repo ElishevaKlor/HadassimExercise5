@@ -18,6 +18,10 @@ Built with **Node.js**, **React**, and **MongoDB** , this system allows the stor
 - **View Order Status**: Track the status of existing orders.
 - **Confirm Order Reception**: Once an order is received, it will be marked as "Completed" and the supplier will be notified.
 
+## Architecture
+
+![ARCHITECTURE!](screens/db.png)
+
 ## Screens
 
 ![Home Page](screens/homePage.png)
