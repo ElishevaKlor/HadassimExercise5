@@ -1,0 +1,8 @@
+
+
+.p-datatable .p-column-header-content{
+    margin-left: 40px;
+}
+.p-datatable-tbody > tr > td{
+    text-align: center;
+}

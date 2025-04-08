@@ -1,0 +1,27 @@
+.p-icon-field-right > .p-input-icon:last-of-type {
+    left: 0.5rem !important; 
+    color: #067ee7; 
+}
+
+.p-icon-field-right > .p-input-icon:last-of-type {
+    right: initial; 
+}
+
+
+.p-password input {
+    padding-right: 0.5rem !important; 
+}
+.p-password {
+    margin-right: 0.5rem; 
+}
+element.style{
+    direction: rtl;
+   
+}
+
+.p-checkbox-label{
+    margin-left: auto !important;
+}
+.p-checkbox{
+   text-align: center !important;
+}

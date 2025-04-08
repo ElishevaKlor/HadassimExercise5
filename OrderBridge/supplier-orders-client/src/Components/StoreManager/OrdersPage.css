@@ -1,0 +1,19 @@
+.p-calendar .p-inputtext {
+    position: relative;
+}
+
+.p-calendar .p-clear-button {
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.icon-table:before {
+    content: "\e939"; /* לדוגמה */
+    position: relative; /* או absolute אם יש צורך */
+    left: 10px; /* הזזה של האייקון */
+}
+
+
+
